@@ -1,0 +1,20 @@
+.red {
+	color: red;
+}
+	
+.zzz {
+	font-style: italic;
+}
+
+div {
+	margin: 10px;
+	padding: 5px;
+	border: 2px solid green;
+	}
+#wrapper {
+	border-color: blueviolet;
+	}
+
+.green {
+	color: green;
+}
